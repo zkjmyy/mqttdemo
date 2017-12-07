@@ -1,0 +1,4 @@
+#Wed Nov 08 17:37:45 CST 2017
+base.0=E\:\\zhangkjDemo\\TestAppol\\mQTTClient\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=E\:\\zhangkjDemo\\TestAppol\\mQTTClient\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

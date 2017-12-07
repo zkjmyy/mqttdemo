@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestAppol.iml" filepath="$PROJECT_DIR$/TestAppol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mQTTClient/mQTTClient.iml" filepath="$PROJECT_DIR$/mQTTClient/mQTTClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmqttclient/testmqttclient.iml" filepath="$PROJECT_DIR$/testmqttclient/testmqttclient.iml" />
+    </modules>
+  </component>
+</project>
